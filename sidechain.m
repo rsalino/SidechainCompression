@@ -1,9 +1,9 @@
-%Sidechain compressor
-%by Rob Salino (c) 2019
+% Sidechain compressor
+% by Rob Salino (c) 2019
 
 
 %*********************************************************
-%TURN VOLUME DOWN - THE SYNTH IS VERY ABRASIVE IN THIS DEMO
+% TURN VOLUME DOWN - THE SYNTH IS VERY ABRASIVE IN THIS DEMO
 %**********************************************************
 
 
