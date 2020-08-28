@@ -1,5 +1,5 @@
 %Sidechain compressor
-%by Rob Salino
+%by Rob Salino (c) 2019
 
 
 %*********************************************************
