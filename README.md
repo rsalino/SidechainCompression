@@ -1,6 +1,6 @@
 # SidechainCompression
 
-## sidechain.m with main.wav and sidechain.wav
+## sidechain.m (used with main.wav and sidechain.wav)
 MATLAB implementation of sidechain compressor algorithm
 (downmixes stereo inputs to mono because SHARC DSP board
 to be used in the actual implementation only accepts one
